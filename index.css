@@ -977,14 +977,14 @@ th ,td{
     height: 400px;
     width:90%;
     border-radius: 5px;
-    top: 200%;
+    top: 170%;
     left: 50%;
     transform: translate(-50%, -50%);
     
 }
 @media screen and ( min-width:300px)  and (max-width:500px){
     #contact-details{
-        margin-top: 470px;
+        margin-top: 270px;
        
         
     }
